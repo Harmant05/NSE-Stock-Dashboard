@@ -4,6 +4,12 @@ An interactive Tableau dashboard analyzing NSE (National Stock Exchange) stock d
 
 ![Dashboard Preview](NSE.png)
 
+## 🚀 Live Demo
+
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-blue?style=for-the-badge)](https://harmant05.github.io/NSE-Stock-Dashboard/)
+
+[![Tableau Public View](https://img.shields.io/badge/Tableau-Public-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/harendra.mani.tripathi/viz/NSE_Stock_Exchange_Analysis_Dashboard/StockExchangeAnalysisDashboard)
+
 ---
 
 ## 🔍 Overview
